@@ -1,1 +1,1 @@
-# GVG
+# Informatika
